@@ -1,4 +1,4 @@
-public class StandardElevator extends person {
+public class StandardElevator extends elevator {
 
     int minFloor;
     int maxFloor;

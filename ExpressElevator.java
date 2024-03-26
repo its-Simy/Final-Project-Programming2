@@ -1,4 +1,4 @@
-public class ExpressElevator extends person{
+public class ExpressElevator extends elevator{
     int minFloor;
     int maxFloor;
     int requestPercent;
